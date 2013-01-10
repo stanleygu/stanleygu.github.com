@@ -1,8 +1,14 @@
+*.c9revisions*
+*.swp
+*.settings
+*node_modules*
+*~
+*.DS_Store
+
 _site/*
 _theme_packages/*
 
 Thumbs.db
-.DS_Store
 
 !.gitkeep
 
